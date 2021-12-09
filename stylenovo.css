@@ -1,0 +1,26 @@
+.celular {
+    display: inline-block;
+    width: 40%;
+}
+.login {
+    width: 40%;
+}
+.troca-login {
+    width: 40%;
+}
+.baixar {
+    display: inline-block;
+}
+#iphone {
+    width: 540px;
+    height: 540px;
+    display: inline-block;
+}
+#google {
+    width: 150px;
+
+}
+#apple {
+    width: 150px;
+
+}
